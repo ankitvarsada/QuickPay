@@ -1,0 +1,21 @@
+.carousel-caption{
+    font-size: 5svi;
+    text-decoration: black;
+}
+
+.heding1{
+    font-size: 4svi;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #1ca8c7;
+}
+
+.card:hover {
+    display: flex;
+    border-color: #1ca8c7;
+    transform: scale(1.1);
+}
+
+.btn:hover{
+    display: flex;
+    transform: scale(1);
+}
